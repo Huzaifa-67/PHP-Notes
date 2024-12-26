@@ -1,0 +1,48 @@
+Introduction to Php
+
+-client side scripting =Data can be stored in a particular device,no global access
+
+
+PHP
+- Server side scripting = Data can be stored globally
+
+Browser-- transfer to -- database & Server (Php,.Net,Phython,C++,CI,Laravel ) they build a connection between browser &
+Server.
+PHP is easy as compared to other languages.
+It can be used with multiple approaches
+1: core
+2: Oop
+mvc = model view control
+
+Possible connections
+
+PHP ___ mysqli ____ mysql Server
+Php ___ pdo   ____  12 drivers 
+pdo -  advanced approaches 
+
+Php required server is localhost/Apache
+
+port = 80 = default port
+apache server
+
+localhost/foldername/filename
+
+- embedding php in html has faster excecuting time than html embedded in php
+
+funtion based programming
+local scopei
+variable function store
+variable cannot work outside function
+
+Global scopei
+Variable can work outside function
+
+
+Super global variable
+$_GET()i
+$_Post()
+FILES
+Server
+SESSION
+
+
